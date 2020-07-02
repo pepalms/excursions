@@ -2,10 +2,11 @@
     margin: 0;
 }
 
-main{
+html{
     background-color: black;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align:center;
+    
     
 }
 
@@ -39,4 +40,11 @@ h3{
 #camp,
 #phone{
     display:block;
+    margin: 0 auto;
+}
+
+footer{
+    color:grey;
+    position:relative;
+    float: right;
 }
